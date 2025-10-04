@@ -1,0 +1,42 @@
+/*
+    EXPLORING WHAT EACH TABLE HAS TO OFFER
+*/
+SELECT *
+FROM album
+LIMIT 100;
+
+SELECT *
+FROM artist
+LIMIT 100;
+
+SELECT *
+FROM customer
+LIMIT 100;
+
+SELECT *
+FROM employee;
+
+SELECT *
+FROM genre;
+
+SELECT *
+FROM invoice
+LIMIT 100;
+
+SELECT *
+FROM invoice_line
+LIMIT 100;
+
+SELECT *
+FROM media_type;
+
+SELECT *
+FROM playlist;
+
+SELECT *
+FROM playlist_track
+LIMIT 100;
+
+SELECT *
+FROM track
+LIMIT 100;
