@@ -48,9 +48,10 @@ The Chinook database includes several related tables such as:
 
 
 ## Results & Insights
-Some key takeaways from my analysis include:  
-- Rock is the most purchased genre, accounting for nearly half of all track sales  
+Some key takeaways from my analysis include:
+- Iron Maiden generated the most revenue followed by U2
+- Rock is the most purchased genre, accounting for nearly half of all track sales
+    - This lines up with Iron Maiden and Metallica being in the top 3
 - USA customers generated the highest revenue overall  
 - The top 5 customers account for ~20% of total revenue  
 - Employee Jane Peacock consistently ranks as the top sales rep  
-
